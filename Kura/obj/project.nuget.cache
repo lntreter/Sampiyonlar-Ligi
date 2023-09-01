@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j9yOxqLJEg41u2Muq/VndshE9O5oPdWXfMrgR6hmot6oh1KYZg/UqsmR1q7PW8xBq4JSk/351pb38PXeckyMeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bsahi\\source\\repos\\Kura\\Kura\\Kura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bsahi\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\bsahi\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\bsahi\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
